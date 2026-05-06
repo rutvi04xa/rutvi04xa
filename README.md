@@ -2,5 +2,5 @@
 
 <h2>👨‍💻 IT Support, Systems Administration & Infrastructure Projects:</h2>
 
-- [Windows Server & Active Directory Home Lab](https://github.com/rutvi04xa/LABURL)
+- [Windows Server & Active Directory Home Lab](https://github.com/rutvi04xa/windows-active-directory-home-lab)
 
