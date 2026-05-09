@@ -4,3 +4,6 @@
 
 - [Windows Server & Active Directory Home Lab](https://github.com/rutvi04xa/windows-active-directory-home-lab)
 
+<h2>🛡️ Cybersecurity Projects:</h2>
+
+- [SOC Analyst Home Lab using Microsoft Sentinel and Azure](https://github.com/rutvi04xa/LABURL)
