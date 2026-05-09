@@ -6,4 +6,4 @@
 
 <h2>🛡️ Cybersecurity Projects:</h2>
 
-- [SOC Analyst Home Lab using Microsoft Sentinel and Azure](https://github.com/rutvi04xa/LABURL)
+- [SOC Analyst Honeypot Home Lab using Microsoft Sentinel and Azure](https://github.com/rutvi04xa/LABURL)
