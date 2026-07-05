@@ -10,4 +10,4 @@
 <h3>🌐 Network Security</h3>
  
 - [Multi-Site Network Design — EIGRP, OSPF & Security](https://github.com/rutvi04xa/multi-site-network-eigrp-ospf-security)
-- [Palo Alto Site-to-Site VPN Lab](https://github.com/rutvi04xa/palo-alto-vpn-lab)
+- [Palo Alto Site-to-Site VPN Lab](https://github.com/rutvi04xa/palo-alto-site-to-site-vpn)
